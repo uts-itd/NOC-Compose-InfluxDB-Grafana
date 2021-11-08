@@ -1,2 +1,2 @@
 #Ignore grafana_data Subdirectories
-grafana_data/*
+/grafana_data/*
