@@ -1,2 +1,2 @@
-#Ignore grafana_data Subdirectories
-/grafana_data/*
+#ignore grafana database
+grafana.db

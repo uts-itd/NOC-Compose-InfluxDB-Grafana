@@ -1,0 +1,1 @@
+#Grafana_data folder is used for system persistent storage for the compose group that is agnoistic to the container.
