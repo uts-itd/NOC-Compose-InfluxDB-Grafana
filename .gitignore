@@ -1,2 +1,3 @@
 #ignore grafana database
 grafana.db
+.env
